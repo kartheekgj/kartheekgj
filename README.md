@@ -1,2 +1,2 @@
 # PROFILE
-Created with CodeSandbox
+Created for illustration purposes

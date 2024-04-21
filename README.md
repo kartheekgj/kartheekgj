@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayendra Kartheek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Microservice to Automate generation of react components**
+- 🔭 Currently working on **Microservices using NestJS**
 
-- 🌱 I’m currently learning **NodeJS, React**
+- 🌱 I’m currently learning **NestJs, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://profile-d1d.pages.dev/](https://profile-d1d.pages.dev/)
+- 👨‍💻 Some of my work are described here -> [https://profile-d1d.pages.dev/](https://profile-d1d.pages.dev/)
 
 - 💬 Ask me about **NodeJS, Javascript, React, Any JS lib or framework**
 
